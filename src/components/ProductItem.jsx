@@ -5,6 +5,7 @@ import { addToCart } from "../redux/actions/cart";
 import { toggleFavorites } from "../redux/actions/favorites";
 import { ReactComponent as FavoriteIcon } from "../assets/icons/favorite_border-24px.svg";
 import { ReactComponent as FavoriteIconFill } from "../assets/icons/favorite-24px.svg";
+import {Link} from 'react-router-dom'
 
 import { useToggle } from "../hooks/useToggle";
 
@@ -13,10 +14,12 @@ function ProductItem(props) {
   const [isToggled, setIsToggled] = useToggle();
 
   return (
-    <div className="product-item col-4 d-flex flex-column align-items-center mb-3">
-      <img src={image} alt="productPhoto" className="mb-2" />
-      <p className="mb-1 text-center">{name}</p>
-      <p className="text-center">{price + currency}</p>
+    <div className="product-item col-12 col-md-4 d-flex flex-column align-items-center mb-3">
+      <Link to={`/product/${id}`} className="d-flex flex-column align-items-center">
+        <img src={image} alt="productPhoto" className="mb-2" />
+        <p className="mb-1 text-center">{name}</p>
+        <p className="text-center">{price + currency}</p>
+      </Link>
       <div>
         <button
           className="btn btn-outline-dark"

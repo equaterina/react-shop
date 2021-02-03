@@ -2,3 +2,9 @@
     margin-bottom: 0px;
     border-bottom: none;
 }
+
+@media (max-width:768px){
+    footer > div{
+        flex-direction: column;
+    }
+}
