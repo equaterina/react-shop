@@ -2,3 +2,11 @@
     max-width: 250px;
     max-height: 250px;
 }
+.heart-icon{
+    display: inline-block;
+}
+
+.heart-icon-hover{
+    fill:#343a40;   
+    cursor: pointer;
+}

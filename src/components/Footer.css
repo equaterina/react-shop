@@ -1,4 +1,4 @@
-footer svg {
-    width: 24px;
-    height: 24px;
+.footer p{
+    margin-bottom: 0px;
+    border-bottom: none;
 }

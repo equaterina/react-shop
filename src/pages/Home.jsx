@@ -17,13 +17,9 @@ class Home extends React.Component{
     }
 
     render() {
-        const {user, signOut} = this.props;
 
         return(
-            <Layout
-                user={user}
-                signOut={signOut}
-            >
+            <Layout>
                 <div className="container-fluid container-min-max-width">
                     <div className="row">
                         {this.state.categories.map((category, index) =>

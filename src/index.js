@@ -5,15 +5,10 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter as Router} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css';
-// importam store-ul creat din reduceri
 import store from './redux/store';
-// importam si componenta Provider, oferita de react-redux
 import { Provider } from 'react-redux';
 
 ReactDOM.render(
-// ATENTIE! Trebuie ia includem toata aplicatia noastra in componenta Provider,
-// careia ii pasam pa props store-ul creat. De ce? Vrem ca toate paginile/componentele
-// create sa aiba acces la store.
 <Provider store={store}>
     <Router>
         <App />
