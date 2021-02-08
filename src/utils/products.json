@@ -3,128 +3,128 @@
         "items": [
             {
                 "id": 1,
-                "name": "Massimo Dutti Sneakers",
-                "price": 135,
+                "name": "VANS OG AUTHENTIC LX",
+                "price": 379,
                 "currency": "RON",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
+                "image": "https://i.imgur.com/D7R4OiR.jpg",
                 "size": 45,
-                "colour": "Black",
-                "material": "Leather",
-                "brand": "Massimo Dutti",
-                "description": "Set on a tonal vulcanised rubber sole, the trainers are detailed with a contrasting midsole stripe, a textured rubber outsole for added grip and a ‘Massimo Dutti’ licence plate on the heel."
+                "colour": "Blue",
+                "material": "SUEDE/ CANVAS",
+                "brand": "Vans",
+                "description": "Vans Authentic shoes were first manufactured in 1966. They were designed by Paul Van Doren, founder of the company, and today they are extremely popular in skateboarding culture. The Vans Authentic Women's range are available in a variety of different patterns and colourways."
             },
             {
                 "id": 2,
-                "name": "Polo Ralph Lauren Black Sneakers",
-                "price": 100,
+                "name": "VANS OG STYLE 138 LX",
+                "price": 368,
                 "currency": "RON",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
+                "image": "https://i.imgur.com/U6mHZTD.jpg",
                 "size": 45,
-                "colour": "Black",
-                "material": "Canvas",
-                "brand": "Polo Ralph Lauren",
-                "description": "White canvas trainers from the iconic American brand, Polo Ralph Lauren."
+                "colour": "Marshmallow/ Multi",
+                "material": "SUEDE/CANVAS",
+                "brand": "Vans",
+                "description": "The Vans Style 138 sneakers are a re-introduced model of one of the most legendary Vans silhouettes. Check them out at Footshop."
             },
             {
                 "id": 3,
-                "name": "Ghete din Leather Beige Massimo",
-                "price": 185,
+                "name": "ADIDAS U_PATH X W",
+                "price": 250,
                 "currency": "RON",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
+                "image": "https://i.imgur.com/gEwR4OU.jpg",
                 "size": 45,
-                "colour": "Beige",
-                "material": "Leather",
-                "brand": "Massimo Dutti",
-                "description": "Leather shoes from 2017-2018 collection, Massimo Dutti"
+                "colour": "Black",
+                "material": "Canvas",
+                "brand": "Adidas",
+                "description": "Upper - Textile ▩ - is a lightweight material, which is offered in a very wide color scale and is mainly used for summer footwear."
             }
         ],
-        "image": "https://cdn.shopify.com/s/files/1/1075/6980/files/VANS-SK9-HI-46-MTE-DX-GLAZED-GINGER-FLANNEL-VN0A3DQ5OGT-2287-WEB-SoleHeaven_1024x1024.jpg?v=1504699883",
-        "name": "Footwear",
+        "image": "https://i.imgur.com/jAjHaio.jpg",
+        "name": "Sneakers",
         "description": "Walk with confidence!"
     },
-    "sweaters": {
+    "hoodies": {
         "items": [
             {
                 "id": 4,
-                "name": "Sweater with collar",
-                "price": 95,
+                "name": "CHAMPION HOODIE",
+                "price": 155,
                 "currency": "RON",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
+                "image": "https://i.imgur.com/XBx2woD.jpg",
                 "size": "L",
-                "colour": "Beige",
-                "material": "cashmere",
-                "brand": "DS Damat",
-                "description": "Cashmere sweater, slim fit, DS Damat."
+                "colour": "Black",
+                "material": "French Terrys",
+                "brand": "Champion",
+                "description": "Composition - 100% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often."
             },
             {
                 "id": 5,
-                "name": "Colourful Sweater",
-                "price": 105,
+                "name": "ADIDAS HOODIE",
+                "price": 200,
                 "currency": "RON",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
+                "image": "https://i.imgur.com/vRPeNBR.jpg",
                 "size": "L",
-                "colour": "Multicolor",
-                "material": "Cotton",
-                "brand": "McNeal",
-                "description": "Colourful stylish sweater, McNeal."
+                "colour": "Green",
+                "material": "French Terry",
+                "brand": "Adidas",
+                "description": "Just a little something extra. Sometimes that's all you need, and this adidas hoodie delivers with ruffles popping off the sleeves. Soft French terry means that wherever you are, you can really relax in total comfort. Because when you feel good, you look good. So throw on this sweatshirt and do both.."
             },
             {
                 "id": 6,
-                "name": "Warm and cozy sweater",
-                "price": 165,
+                "name": "VANS 66 SUPPLY HOODIE",
+                "price": 205,
                 "currency": "RON",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
+                "image": "https://i.imgur.com/X3nkPUT.jpg",
                 "size": "L",
                 "colour": "Multicolor",
-                "material": "Wool",
-                "brand": "SELECTED",
-                "description": "Woolen cozy and warm sweater, SELECTED."
+                "material": "Polyester/Cotton",
+                "brand": "Vans",
+                "description": "76% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often.24% Polyester - a very strong synthetic fiber that boasts high heat resistance and excellent odor absorption"
             },
             {
                 "id": 7,
-                "name": "Woolen sweater",
-                "price": 160,
+                "name": "FILA TAVORA HOODIE",
+                "price": 137,
                 "currency": "RON",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
+                "image": "https://i.imgur.com/OCarRYG.jpg",
                 "size": "L",
-                "colour": "Creme",
-                "material": "Wool",
-                "brand": "Massimo Dutti",
-                "description": "Woolen classic sweater for models, Massimo Dutti."
+                "colour": "Pastel Pink",
+                "material": "French Terry   ",
+                "brand": "FILA",
+                "description": "65% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often.35% Polyester - a very strong synthetic fiber that boasts high heat resistance and excellent odor absorption"
             }
         ],
-        "image": "https://image.freepik.com/free-photo/autumn-background-with-cozy-sweaters_169016-5314.jpg",
-        "name": "Sweaters",
+        "image": "https://i.imgur.com/OSPrtKM.jpg",
+        "name": "Hoodies",
         "description": "Get ready for the Sweater Weather!"
     },
     "pants": {
         "items": [
             {
                 "id": 8,
-                "name": "Navy blue jeans slim fit",
-                "price": 35,
+                "name": "HOPE KRISSY TROUSERS",
+                "price": 120,
                 "currency": "RON",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
+                "image": "https://i.imgur.com/7oGFyy7.jpg",
                 "size": "34",
-                "colour": "Navy Blue",
-                "material": "Jeans",
-                "brand": "DS Damat",
-                "description": "Navy blue jeans, slim fit, DS Damat."
+                "colour": "Gray",
+                "material": "Viscose",
+                "brand": "Hope",
+                "description": "Composition - Viscose - the look is similar to cotton and is equally comfortable to touch, but the cotton is different with its better heat conducting properties."
             },
             {
                 "id": 9,
-                "name": "Black Jeans slim fit",
+                "name": "SELECTED CROPPED TROUSERS",
                 "price": 40,
                 "currency": "RON",
-                "image": "https://i.imgur.com/weiI07t.jpg",
+                "image": "https://i.imgur.com/dHipIHi.jpg",
                 "size": "34",
-                "colour": "Black-grey",
-                "material": "Jeans",
-                "brand": "DS Damat",
-                "description": "Black Jeans, slim fit, fall 2019 collection, DS Damat."
+                "colour": "Black",
+                "material": "Visocose, Elastane, Polyester",
+                "brand": "Selected",
+                "description": "32% Viscose - the look is similar to cotton and is equally comfortable to touch, but the cotton is different with its better heat conducting properties.4% Elastane - used in combination with other materials, especially for its excellent flexibility - its fiber can stretch up to three times its normal length and then return to its original state.64% Polyester - a very strong synthetic fiber that boasts high heat resistance and excellent odor absorption"
             }
         ],
-        "image": "https://i.pinimg.com/originals/79/a7/f5/79a7f5a1313e50771f092efe496fdabd.png",
+        "image": "https://i.imgur.com/B3KqcfD.jpg",
         "name": "Pants/Jeans",
         "description": "Steal that Steve Jobs or Mark Zuckerberg look!"
     },
@@ -132,30 +132,30 @@
         "items": [
             {
                 "id": 10,
-                "name": "Long woolen coat",
-                "price": 210,
+                "name": "HELLY HANSEN W ARYA PARKA",
+                "price": 600,
                 "currency": "RON",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
+                "image": "https://i.imgur.com/GJqYSja.jpg",
                 "size": "L",
-                "colour": "Dark grey",
-                "material": "Wool",
-                "brand": "Peek and Cloppenburg",
-                "description": "Long woolen warm coat, Peek and Cloppenburg."
+                "colour": "Khaki green",
+                "material": "Polyester",
+                "brand": "Helly Hansen",
+                "description": "Outer material - 100% Polyester, Filling material - 100% Polyester"
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
+                "name": "ADIDAS MYSHELTER COLD RDY",
+                "price": 800,
                 "currency": "RON",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
+                "image": "https://i.imgur.com/qlULhTP.jpg",
                 "size": "L",
-                "colour": "Navy Blue",
+                "colour": "Black",
                 "material": "Polyester",
-                "brand": "DS Damat",
-                "description": "Navy jacket with detachable hood, autumn-winter 2019 collection, DS Damat."
+                "brand": "Adidas",
+                "description": "Whether you're grabbing food in Chinatown or bar hopping in Brooklyn, the last thing you want to worry about is getting cold. Enter the MYSHELTER COLD.RDY Parka. The adidas insulating technology of overlapping sections of HyperDRY™ Down keep the warmth in and the cold out. Internal carry straps for when you head indoors, weatherproof vest for when you've got no option but to hit the streets."
             }
         ],
-        "image": "https://www.hm.com/nt-south/uploads/2019/04/35C_mobileteaser_2106x1406_150dpi-750x501.jpg",
+        "image": "https://i.imgur.com/bvF2ycr.jpg",
         "name": "Outerwear",
         "description": "Keep yourself warm during cold times!"
     },
@@ -163,42 +163,42 @@
         "items": [
             {
                 "id": 12,
-                "name": "Tricou with stripes",
-                "price": 90,
+                "name": "ADIDAS CAMO TONGUE TEE",
+                "price": 105,
                 "currency": "RON",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
+                "image": "https://i.imgur.com/BaAcViE.jpg",
                 "size": "L",
-                "colour": "Multicolor",
+                "colour": "White Camo",
                 "material": "Cotton",
-                "brand": "Lacoste",
-                "description": "T-shirt with stripes, colecția spring-winter 2019, Lacoste."
+                "brand": "Adidas",
+                "description": "Composition - 100% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often."
             },
             {
                 "id": 13,
-                "name": "Ping Pong T-Shirt",
-                "price": 110,
+                "name": "NIKE SPORTSWEAR TEE",
+                "price": 99,
                 "currency": "RON",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
+                "image": "https://i.imgur.com/EGnMqXO.jpg",
                 "size": "L",
-                "colour": "Red",
-                "material": "Polyester",
-                "brand": "Li Ning",
-                "description": "Dragon print ping pong t-shirt worn by Chinese national players in 2013."
+                "colour": "White",
+                "material": "Cotton",
+                "brand": "Nike",
+                "description": "Composition - 100% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often."
             },
             {
                 "id": 14,
-                "name": "Original BVB T-shirt with autograph",
-                "price": 1909,
+                "name": "THE NORTH FACE RAG BOX TEE",
+                "price": 205,
                 "currency": "RON",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
+                "image": "https://i.imgur.com/O7UtGt4.jpg",
                 "size": "L",
-                "colour": "Yellow-Black",
-                "material": "Polyester",
-                "brand": "Puma",
-                "description": "The shirt worn by Borussia Dortmund in the 2018-2019 competition season, with the number 7 and the name 'SANCHO'. The shirt is signed by Borussia's goalkeeper, Roman Burki."
+                "colour": "Mineral Gray",
+                "material": "Cotton",
+                "brand": "Vans",
+                "description": "Composition - 100% Cotton - A very soft and pleasant material whose properties include tensile strength and elongation at break. Unlike other materials, it does not get damaged easily when washed often."
             }
         ],
-        "image": "https://images.squarespace-cdn.com/content/v1/5a8d844a4c0dbfcf5f38643c/1598628446851-OBMD0AFT3N4LISEPSTDB/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Uft-jeL99Oy5JFlEHZ1VPcs2fZ-Ylxl26kAcJ6zlp6kQpC969RuPXvt2ZwyzUXQf7Q/mockup-featuring-two-customizable-t-shirts-hanging-from-a-metal-clothing-rack-3730-el1.png?format=2500w",
+        "image": "https://i.imgur.com/92X7IIj.png",
         "name": "T-Shirts",
         "description": "Get you essentials on point!"
     },
@@ -206,30 +206,30 @@
         "items": [
             {
                 "id": 15,
-                "name": "Two-sided TJ scarf",
+                "name": "ADIDAS SOLID CREW SOCK 3-PACK",
                 "price": 85,
                 "currency": "RON",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
+                "image": "https://i.imgur.com/n1U3UtU.jpg",
                 "size": "Universal",
-                "colour": "Gray-Blue",
+                "colour": "Cotton",
                 "material": "Cashmere",
-                "brand": "Trussardi Jeans",
-                "description": "Printed scarf, from the autumn-winter 2018 collection, Trussardi Jeans."
+                "brand": "Adidas",
+                "description": "Crew, 3-pack elite socks made of cotton."
             },
             {
                 "id": 16,
-                "name": "Mănuși din Leather",
-                "price": 60,
+                "name": "ADIDAS SPORT MODULAR BACKPACK",
+                "price": 200,
                 "currency": "RON",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
+                "image": "https://i.imgur.com/gGHTNHn.jpg",
                 "size": "L",
-                "colour": "Black",
-                "material": "Leather",
-                "brand": "DS Damat",
-                "description": "Leather gloves, with model, from the autumn-winter 2018 collection, DS Damat."
+                "colour": "Khaki green/white",
+                "material": "Polyester",
+                "brand": "Adidas",
+                "description": "Backpack from Adidas made from recycled polyester"
             }
         ],
-        "image": "https://images.unsplash.com/3/www.madebyvadim.com.jpg?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YWNjZXNzb3JpZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "image": "https://i.imgur.com/bQBGmjX.jpg",
         "name": "Accessories",
         "description": "Every random thing your heart desires!"
     }
