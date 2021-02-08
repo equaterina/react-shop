@@ -1,16 +1,9 @@
-## JavaScript Advanced - Curs 8
-
-Pentru a rula aceasta etapa (in linie de comanda):
-
-#### 1. `git clone https://github.com/razvancir96/react-curs08.git`
-
-#### 2. `cd react-curs08`
-
-#### 3. `npm install` (posibil sa dureze)
-
-#### ATENTIE! 
-Pentru a functiona logarea cu Firebase, pornind de la fisierul `firebase.template.js`, din folderul configs, modificati propritatile obiectului `firebaseConfig` cu cele corespunzatoare aplicatiei voastre(din consola Firebase, Project Settings). De asemenea, fisierul trebuie redenumit `firebase.js` pentru a functiona.
-
-#### 4. `npm start`
-
-
+## Project Description:
+ E-commerce website built using React, Redux, React Router, Firebase, Bootstrap
+## Functionalities:                   
+* Dynamic routing - Clicking on every category lists coresponding products
+* The cart stores items, items can be removed from the cart, the cart updates and is synchronized across pages 
+* Clicking the product takes you directly to the project page
+* Login with Google and Github
+                            
+                        
