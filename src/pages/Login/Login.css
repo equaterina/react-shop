@@ -1,0 +1,21 @@
+.container {
+    height: 100vh;
+    top:50%;
+}
+
+.centered-item{
+    align-items: center;
+    position: absolute;
+}
+
+.centered-item img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:120px;
+}
+
+.login-icons{
+    width:50px !important;
+    height:auto;
+}

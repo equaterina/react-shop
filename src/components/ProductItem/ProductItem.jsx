@@ -1,13 +1,13 @@
 import React from "react";
 import "./ProductItem.css";
 import { connect } from "react-redux";
-import { addToCart } from "../redux/actions/cart";
-import { toggleFavorites } from "../redux/actions/favorites";
-import { ReactComponent as FavoriteIcon } from "../assets/icons/favorite_border-24px.svg";
-import { ReactComponent as FavoriteIconFill } from "../assets/icons/favorite-24px.svg";
+import { addToCart } from "../../redux/cart/cartActions";
+import { toggleFavorites } from "../../redux/favorites/favoritesActions";
+import { ReactComponent as FavoriteIcon } from "../../assets/icons/favorite_border-24px.svg";
+import { ReactComponent as FavoriteIconFill } from "../../assets/icons/favorite-24px.svg";
 import {Link} from 'react-router-dom'
 
-import { useToggle } from "../hooks/useToggle";
+import { useToggle } from "../../hooks/useToggle";
 
 function ProductItem(props) {
   const { name, price, currency, image, id } = props;

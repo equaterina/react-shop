@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from '../assets/images/logo.png';
-import { ReactComponent as ShoppingCart } from '../assets/icons/shopping-cart.svg';
-import { ReactComponent as FavoriteIcon } from '../assets/icons/favorite_border-24px.svg'
-import { ReactComponent as FavoriteIconFill } from '../assets/icons/favorite-24px.svg'
+import Logo from '../../assets/images/logo.png';
+import { ReactComponent as ShoppingCart } from '../../assets/icons/shopping-cart.svg';
+import { ReactComponent as FavoriteIcon } from '../../assets/icons/favorite_border-24px.svg'
+import { ReactComponent as FavoriteIconFill } from '../../assets/icons/favorite-24px.svg'
 import './Header.css';
-import {useToggle} from '../hooks/useToggle'
+import {useToggle} from '../../hooks/useToggle'
 import { Badge } from '@material-ui/core';
 
 
@@ -15,7 +15,7 @@ import { Badge } from '@material-ui/core';
 
 import { connect } from 'react-redux';
 
-import {logoutUser} from '../redux/actions/users'
+import {logoutUser} from '../../redux/users/usersActions'
 
 function Header(props) {
     const {numberOfProducts, numberOfFavorites, user, logout } = props;

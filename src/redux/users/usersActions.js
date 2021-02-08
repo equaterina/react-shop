@@ -1,28 +1,30 @@
-import { signInWithGoogle, signOut } from '../../apis/firebase'
+import { signInWithGoogle, signInWithGithub, signOut } from '../../apis/firebase'
+import {START_LOADING, UPDATE_USER_DATA, UPDATE_ERROR} from './userConstants'
+
 
 export function startLoading() {
   return {
-    type: "START_LOADING",
+    type: START_LOADING,
   };
 }
 
 export function updateUserData(payload) {
   return {
-    type: "UPDATE_USER_DATA",
+    type: UPDATE_USER_DATA,
     payload,
   };
 }
 
 export function updateError(payload) {
   return {
-    type: "UPDATE_ERROR",
+    type: UPDATE_ERROR,
     payload,
   };
 }
 
 
 //Redux Thunk returns a function
-export function loginUser(){
+export function loginUserWithGoogle(){
     return (dispatch) => {
         dispatch(startLoading())
 
@@ -33,6 +35,19 @@ export function loginUser(){
           dispatch(updateError(error))
         })
     }
+}
+
+export function loginUserWithGithub(){
+  return (dispatch) => {
+    dispatch(startLoading())
+
+    signInWithGithub().then((response) => {
+        const payload = response.user;
+        dispatch(updateUserData(payload));
+    }).catch((error) => {
+      dispatch(updateError(error))
+    })
+}
 }
 
 export function logoutUser(){
